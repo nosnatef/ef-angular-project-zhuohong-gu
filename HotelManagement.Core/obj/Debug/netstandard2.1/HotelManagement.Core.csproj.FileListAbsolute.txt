@@ -1,0 +1,9 @@
+C:\Users\shizi\source\repos\HotelManagement\HotelManagement.Core\bin\Debug\netstandard2.1\HotelManagement.Core.deps.json
+C:\Users\shizi\source\repos\HotelManagement\HotelManagement.Core\bin\Debug\netstandard2.1\HotelManagement.Core.dll
+C:\Users\shizi\source\repos\HotelManagement\HotelManagement.Core\bin\Debug\netstandard2.1\HotelManagement.Core.pdb
+C:\Users\shizi\source\repos\HotelManagement\HotelManagement.Core\obj\Debug\netstandard2.1\HotelManagement.Core.AssemblyInfoInputs.cache
+C:\Users\shizi\source\repos\HotelManagement\HotelManagement.Core\obj\Debug\netstandard2.1\HotelManagement.Core.AssemblyInfo.cs
+C:\Users\shizi\source\repos\HotelManagement\HotelManagement.Core\obj\Debug\netstandard2.1\HotelManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\shizi\source\repos\HotelManagement\HotelManagement.Core\obj\Debug\netstandard2.1\HotelManagement.Core.dll
+C:\Users\shizi\source\repos\HotelManagement\HotelManagement.Core\obj\Debug\netstandard2.1\HotelManagement.Core.pdb
+C:\Users\shizi\source\repos\HotelManagement\HotelManagement.Core\obj\Debug\netstandard2.1\HotelManagement.Core.csprojAssemblyReference.cache

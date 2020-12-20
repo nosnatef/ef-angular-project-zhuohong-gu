@@ -1,0 +1,12 @@
+C:\Users\shizi\source\repos\HotelManagement\HotelManagement.Infrastructure\bin\Debug\netstandard2.1\HotelManagement.Infrastructure.deps.json
+C:\Users\shizi\source\repos\HotelManagement\HotelManagement.Infrastructure\bin\Debug\netstandard2.1\HotelManagement.Infrastructure.dll
+C:\Users\shizi\source\repos\HotelManagement\HotelManagement.Infrastructure\bin\Debug\netstandard2.1\HotelManagement.Infrastructure.pdb
+C:\Users\shizi\source\repos\HotelManagement\HotelManagement.Infrastructure\bin\Debug\netstandard2.1\HotelManagement.Core.dll
+C:\Users\shizi\source\repos\HotelManagement\HotelManagement.Infrastructure\bin\Debug\netstandard2.1\HotelManagement.Core.pdb
+C:\Users\shizi\source\repos\HotelManagement\HotelManagement.Infrastructure\obj\Debug\netstandard2.1\HotelManagement.Infrastructure.csprojAssemblyReference.cache
+C:\Users\shizi\source\repos\HotelManagement\HotelManagement.Infrastructure\obj\Debug\netstandard2.1\HotelManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\shizi\source\repos\HotelManagement\HotelManagement.Infrastructure\obj\Debug\netstandard2.1\HotelManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\shizi\source\repos\HotelManagement\HotelManagement.Infrastructure\obj\Debug\netstandard2.1\HotelManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\shizi\source\repos\HotelManagement\HotelManagement.Infrastructure\obj\Debug\netstandard2.1\HotelManagement.Infrastructure.csproj.CopyComplete
+C:\Users\shizi\source\repos\HotelManagement\HotelManagement.Infrastructure\obj\Debug\netstandard2.1\HotelManagement.Infrastructure.dll
+C:\Users\shizi\source\repos\HotelManagement\HotelManagement.Infrastructure\obj\Debug\netstandard2.1\HotelManagement.Infrastructure.pdb
